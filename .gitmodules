@@ -4,3 +4,15 @@
 [submodule "media_store"]
 	path = media_store
 	url = https://github.com/shaihi/MediaStore_LoadImage
+[submodule "notes_sql"]
+	path = notes_sql
+	url = https://github.com/shaihi/Notes_app_sqlite
+[submodule "fragment_example"]
+	path = fragment_example
+	url = https://github.com/shaihi/Fragment_Class_Example
+[submodule "maps_fragment"]
+	path = maps_fragment
+	url = https://github.com/shaihi/Maps_Fragment_Example
+[submodule "another_fragment_example"]
+	path = another_fragment_example
+	url = https://github.com/shaihi/Fragment_Example
