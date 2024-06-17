@@ -16,3 +16,12 @@
 [submodule "another_fragment_example"]
 	path = another_fragment_example
 	url = https://github.com/shaihi/Fragment_Example
+[submodule "threads_example"]
+	path = threads_example
+	url = https://github.com/shaihi/Threads_download_example
+[submodule "camera_simple_example"]
+	path = camera_simple_example
+	url = https://github.com/shaihi/Camera_MediaStore
+[submodule "recycleview_full_example"]
+	path = recycleview_full_example
+	url = https://github.com/shaihi/RecycleViewExtensiveExample
