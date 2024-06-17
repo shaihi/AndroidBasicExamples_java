@@ -1,0 +1,6 @@
+[submodule "menus_example"]
+	path = menus_example
+	url = https://github.com/shaihi/menus_example
+[submodule "media_store"]
+	path = media_store
+	url = https://github.com/shaihi/MediaStore_LoadImage
