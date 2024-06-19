@@ -12,3 +12,4 @@ All projects work and compile under Android Hedgehog with API level 30 and above
 - [Maps fragment example](https://github.com/shaihi/Maps_Fragment_Example/tree/a3ad0ceb8f4595bc02786e208588aa48dac99e23): Showing how to place a pin on a map using OpenStreetMaps SDK. It also inlcudes a function to convert an address to longtitude and latitude.
 - [Another fragment example](https://github.com/shaihi/Fragment_Example/tree/8038d8c7fc37dfacb7269057839c694bc537cdfe): This time passing info between fragments using a SQLite DB
 - [Camera example](https://github.com/shaihi/Camera_MediaStore/tree/708051afd63428b43cabe37b898ce8a052b73d9f): an incomplete example of previewing using CameraX and capturing an image.
+- [OpenAI GPT simple example](https://github.com/shaihi/gpt_example/tree/2926360011718240842b4eaf6374bcfc3a1165a4): You need to adjust the setup prompt and your OpenAI API KEY in strings.xml
