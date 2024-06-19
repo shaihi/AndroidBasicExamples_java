@@ -25,3 +25,6 @@
 [submodule "recycleview_full_example"]
 	path = recycleview_full_example
 	url = https://github.com/shaihi/RecycleViewExtensiveExample
+[submodule "gpt_example"]
+	path = gpt_example
+	url = https://github.com/shaihi/gpt_example
