@@ -28,3 +28,6 @@
 [submodule "gpt_example"]
 	path = gpt_example
 	url = https://github.com/shaihi/gpt_example
+[submodule "ContentProviderExample"]
+	path = ContentProviderExample
+	url = https://github.com/shaihi/ContentProviderExample
