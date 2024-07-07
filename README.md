@@ -13,3 +13,4 @@ All projects work and compile under Android Hedgehog with API level 30 and above
 - [Another fragment example](https://github.com/shaihi/Fragment_Example/tree/8038d8c7fc37dfacb7269057839c694bc537cdfe): This time passing info between fragments using a SQLite DB
 - [Camera example](https://github.com/shaihi/Camera_MediaStore/tree/708051afd63428b43cabe37b898ce8a052b73d9f): an incomplete example of previewing using CameraX and capturing an image.
 - [OpenAI GPT simple example](https://github.com/shaihi/gpt_example/tree/2926360011718240842b4eaf6374bcfc3a1165a4): You need to adjust the setup prompt and your OpenAI API KEY in strings.xml
+- [ContentProvider Example](https://github.com/shaihi/ContentProviderExample/tree/ac209e5a4724751d166f895d5328985d734c405e): An example using the contacts content provider. It does not show how to identify as a content provider and makes some use of reading and writing contacts through the provider.
