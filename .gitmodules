@@ -31,3 +31,6 @@
 [submodule "ContentProviderExample"]
 	path = ContentProviderExample
 	url = https://github.com/shaihi/ContentProviderExample
+[submodule "DialogExample"]
+	path = DialogExample
+	url = https://github.com/shaihi/DialogExample
