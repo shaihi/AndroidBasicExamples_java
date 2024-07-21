@@ -34,3 +34,6 @@
 [submodule "DialogExample"]
 	path = DialogExample
 	url = https://github.com/shaihi/DialogExample
+[submodule "ServiceExample"]
+	path = ServiceExample
+	url = https://github.com/shaihi/ServiceExample
