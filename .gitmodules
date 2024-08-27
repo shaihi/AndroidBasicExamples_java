@@ -37,3 +37,6 @@
 [submodule "ServiceExample"]
 	path = ServiceExample
 	url = https://github.com/shaihi/ServiceExample
+[submodule "BroadcastExample"]
+	path = BroadcastExample
+	url = https://github.com/shaihi/BroadcastExample
