@@ -40,3 +40,6 @@
 [submodule "BroadcastExample"]
 	path = BroadcastExample
 	url = https://github.com/shaihi/BroadcastExample
+[submodule "ImageToTextExample"]
+	path = ImageToTextExample
+	url = https://github.com/shaihi/ImageToTextExample
