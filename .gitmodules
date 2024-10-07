@@ -43,3 +43,6 @@
 [submodule "ImageToTextExample"]
 	path = ImageToTextExample
 	url = https://github.com/shaihi/ImageToTextExample
+[submodule "CountdownExampleWithRoundedDrwanButton"]
+	path = CountdownExampleWithRoundedDrwanButton
+	url = https://github.com/shaihi/CountdownExampleWithRoundedDrwanButton
